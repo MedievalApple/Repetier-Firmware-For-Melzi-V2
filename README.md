@@ -1,4 +1,4 @@
-# Repetier Firmware For Melzi V2
+# Repetier Firmware For Melzi V2 - With EEPROM Support
 
 ## About This Fork
 
