@@ -12,7 +12,7 @@ This is a slighty modified version of Repetier 1.0.0 Dev that has been modified 
 
 ## Installation
 
-Note: This Fork Has already been configured to work with a Monoprice Make Select V2
+**Note: This Fork Has already been configured to work with a Monoprice Make Select V2**
                                
 Please use your configuration tool at 
 [http://www.repetier.com/firmware/v100](http://www.repetier.com/firmware/v100)
