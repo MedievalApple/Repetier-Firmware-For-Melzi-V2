@@ -2,7 +2,7 @@
 
 ## About This Fork
 
-This is a slighty modifyied version of Repetier 1.0.0 Dev that has been modifiyed to work on the the Melzi V2. 1.0.0 Dev was picked because it was the last version of repetier that I could get to properly work.
+This is a slighty modified version of Repetier 1.0.0 Dev that has been modified to work on the the Melzi V2. 1.0.0 Dev was picked because it was the last version of repetier that I could get to properly work.
 
 ## Installation
 
