@@ -2,9 +2,11 @@
 
 ## About This Fork
 
-**Note: if you do not need eeprom support you can use the 
-latest version of repetier ---> https://github.com/repetier/Repetier-Firmware 
-(Just make sure you disable eeprom support or the firmware will be too big to fit on the melzi V2)** 
+**Note: if you do not need eeprom support you can use the**
+
+**latest version of repetier ---> https://github.com/repetier/Repetier-Firmware**
+
+**(Just make sure you disable eeprom support or the firmware will be too big to fit on the melzi V2)** 
 
 This is a slighty modified version of Repetier 1.0.0 Dev that has been modified to work on the the Melzi V2. 1.0.0 Dev was picked because it was the last version of repetier that I could get to properly work with eeprom enabled.
 
